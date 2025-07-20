@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on the development of AI solutions for the optimization and automation of agricultural processes<br>🌱 I’m currently learning to develop robust, efficient, and practical software for everyday use<br>💬 Ask me about my passions<br>⚡ There's always time for a motorbike ride
 
+I'm all in on GitLab at the moment—so no need to bring GitHub stats to the table. They’re on a coffee break!" ☕🐙
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-stucchi-3abab52b7) 
